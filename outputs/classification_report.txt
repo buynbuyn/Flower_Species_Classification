@@ -1,11 +1,12 @@
+🔍 Classification report trên bộ TEST:
               precision    recall  f1-score   support
 
-       daisy       0.90      0.84      0.87       122
-   dandelion       0.90      0.90      0.90       167
-        rose       0.87      0.74      0.80       121
-   sunflower       0.84      0.84      0.84       100
-       tulip       0.76      0.91      0.83       138
+       daisy       0.90      0.95      0.93        20
+   dandelion       1.00      0.85      0.92        20
+        rose       0.95      1.00      0.98        20
+   sunflower       0.95      0.95      0.95        20
+       tulip       0.90      0.95      0.93        20
 
-    accuracy                           0.85       648
-   macro avg       0.86      0.85      0.85       648
-weighted avg       0.86      0.85      0.85       648
+    accuracy                           0.94       100
+   macro avg       0.94      0.94      0.94       100
+weighted avg       0.94      0.94      0.94       100

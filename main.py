@@ -192,9 +192,9 @@ with col5:
         <p>Hiển thị tên, độ chính xác và thông tin loài hoa</p>
     </div>
     """, unsafe_allow_html=True)
-# KHỐI DƯỚI: KẾT QUẢ HUẤN LUYỆN
+# KHỐI DƯỚI: KẾT QUẢ BỘ TEST
 st.markdown("<br><hr><br>", unsafe_allow_html=True)
-st.markdown("<h4 style='color:#e6007e;'>📊 Kết Quả Huấn Luyện Mô Hình</h4>", unsafe_allow_html=True)
+st.markdown("<h4 style='color:#e6007e;'>📊 Kết Quả Bộ Test Mô Hình</h4>", unsafe_allow_html=True)
 
 col6, col7 = st.columns(2)
 
@@ -204,11 +204,10 @@ with col6:
 
 with col7:
     st.image("outputs/confusion_matrix.png", caption="Ma trận nhầm lẫn", use_container_width=True)
-gt
     try:
         with open("outputs/classification_report.txt", "r", encoding="utf-8") as f:
             report = f.read()
-        st.markdown("**Báo cáo phân loại:**")
+        st.markdown("Báo cáo phân loại:")
         st.code(report, language="text")
     except:
         st.warning("Không tìm thấy file classification_report.txt")

@@ -5,13 +5,115 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="973b35c6-1037-40d7-9e5b-aeabca23ecee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Flower_Species_Classification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flower_Species_Classification.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (11).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (12).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (13).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (14).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (16).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (17).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (18).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (19).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (7).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP (9).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/daisy/OIP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (11).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (12).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (13).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (14).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (16).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (17).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (7).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP (9).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/OIP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/dandelion/th.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIF (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (11).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (12).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (13).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (14).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (16).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (18).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (7).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP (9).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/rose/OIP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (11).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (12).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (13).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (14).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (16).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (17).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (18).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (19).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (7).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP (9).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/sunflower/OIP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (11).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (12).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (13).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (14).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (16).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (17).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (18).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (7).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP (9).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/flower_test/tulip/OIP.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/flower_cnn_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/models/flower_cnn_model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/accuracy_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/accuracy_plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/classification_report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/classification_report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/confusion_matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/confusion_matrix.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/loss_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/loss_plot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/evaluate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model_cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/model_cnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/predict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/train.py" afterDir="false" />
@@ -32,18 +134,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "buynbuyn"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;buynbuyn&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/buynbuyn/Flower_Species_Classification.git",
-    "accountId": "b317c991-45ee-4c3a-9837-06220e7c2d91"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/buynbuyn/Flower_Species_Classification.git&quot;,
+    &quot;accountId&quot;: &quot;b317c991-45ee-4c3a-9837-06220e7c2d91&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -63,14 +165,14 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/OneDrive/Documents/TAI_LIEU_HOC/KÌ 7/MÁY HỌC/Flower_Species_Classification",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Users/Lenovo/OneDrive/Documents/TAI_LIEU_HOC/KÌ 7/MÁY HỌC/Flower_Species_Classification/data",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\OneDrive\Documents\TAI_LIEU_HOC\KÌ 7\MÁY HỌC\Flower_Species_Classification\icon" />
       <recent name="C:\Users\Lenovo\OneDrive\Documents\TAI_LIEU_HOC\KÌ 7\MÁY HỌC\Flower_Species_Classification\data" />
+      <recent name="C:\Users\Lenovo\OneDrive\Documents\TAI_LIEU_HOC\KÌ 7\MÁY HỌC\Flower_Species_Classification\icon" />
     </key>
   </component>
   <component name="SharedIndexes">

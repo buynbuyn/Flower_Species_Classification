@@ -3,7 +3,7 @@ def train_model():
     os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
     import matplotlib.pyplot as plt
-    from preprocess import load_data
+    from preprocess import load_train_val_data   # dùng hàm mới
     from model_cnn import build_model
     from tensorflow.keras.callbacks import EarlyStopping
 
@@ -11,11 +11,11 @@ def train_model():
     os.makedirs('outputs', exist_ok=True)
     os.makedirs('models', exist_ok=True)
 
-    # Load dữ liệu và class_names
-    (X_train, X_test, y_train, y_test), class_names = load_data()
+    # Load dữ liệu train/val và class_names
+    (X_train, X_val, y_train, y_val), class_names = load_train_val_data("data/flowers", img_size=128)
 
-    # Xây mô hình
-    model = build_model()
+    # Xây mô hình (num_classes động theo số lớp hoa)
+    model = build_model(num_classes=len(class_names))
 
     # Callback dừng sớm
     early_stopping = EarlyStopping(
@@ -28,7 +28,7 @@ def train_model():
     history = model.fit(
         X_train, y_train,
         epochs=50,
-        validation_data=(X_test, y_test),
+        validation_data=(X_val, y_val),
         callbacks=[early_stopping]
     )
 
@@ -57,4 +57,10 @@ def train_model():
     plt.savefig('outputs/loss_plot.png')
     plt.close()
 
-    print("Huấn luyện xong. Mô hình và biểu đồ đã được lưu.")
+    print("✅ Huấn luyện xong. Mô hình và biểu đồ đã được lưu.")
+
+    return model, history, class_names
+
+
+if __name__ == "__main__":
+    train_model()
